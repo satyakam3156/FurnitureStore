@@ -3,7 +3,7 @@ import styles from './FilterOptions.module.css';
 const filterOptions = React.forwardRef((props, ref) => {
     let collectionOptions = props.options.map(e => {
         return (<div>
-            <input type="radio" value={e} name={props.name} /><label>{e}</label>
+            <input type="radio" value={e} name={props.name} onChange={($event)=>props.onRadioClick($event.target.value)} /><label>{e}</label>
         </div>)
     })
 
