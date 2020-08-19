@@ -1,0 +1,9 @@
+.panelContent{
+    display: none;
+    padding: 10px 0;
+    transition: 1s ease-out;
+  }
+   .panelContent div{
+     padding:5px 0;
+     vertical-align: middle;
+   }

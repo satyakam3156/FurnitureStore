@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="72px" viewBox="0 0 120 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>icons_sprite</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons_sprite" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy-16" fill-opacity="0.01" fill="#FFFFFF" x="48" y="48" width="24" height="24"></rect>
+        <rect id="Rectangle-Copy-20" fill-opacity="0.01" fill="#FFFFFF" x="96" y="48" width="24" height="24"></rect>
+        <rect id="Rectangle-Copy-18" fill-opacity="0.01" fill="#FFFFFF" x="24" y="48" width="24" height="24"></rect>
+        <rect id="Rectangle-Copy-21" fill-opacity="0.01" fill="#FFFFFF" x="72" y="48" width="24" height="24"></rect>
+        <rect id="Rectangle-Copy-19" fill-opacity="0.01" fill="#FFFFFF" x="0" y="48" width="24" height="24"></rect>
+        <rect id="Rectangle" fill-opacity="0.01" fill="#FFFFFF" x="24" y="0" width="24" height="24"></rect>
+        <rect id="Rectangle-Copy" fill-opacity="0.01" fill="#FFFFFF" x="48" y="0" width="24" height="24"></rect>
+        <rect id="Rectangle-Copy-5" fill-opacity="0.01" fill="#FFFFFF" x="72" y="24" width="24" height="24"></rect>
+        <rect id="Rectangle-Copy-13" fill-opacity="0.01" fill="#FFFFFF" x="24" y="24" width="24" height="24"></rect>
+        <g id="Group-3" transform="translate(96.000000, 24.000000)">
+            <rect id="Rectangle-Copy-7" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+            <g id="Cart-Button" transform="translate(1.000000, 1.000000)" stroke="#FFFFFF" stroke-width="2">
+                <polyline id="Path" points="0 0 2.5 3.01612903 2.5 12.0645161 1 15.5833333 22 15.5833333"></polyline>
+                <polyline id="Path" points="2.75 2.75 20.1666667 2.75 17.1809524 11.9166667 2.75 11.9166667"></polyline>
+                <circle id="Oval" stroke-linecap="square" cx="2.75" cy="20.1666667" r="1.83333333"></circle>
+                <circle id="Oval" stroke-linecap="square" cx="19.25" cy="20.1666667" r="1.83333333"></circle>
+            </g>
+        </g>
+        <rect id="Rectangle-Copy-15" fill-opacity="0.01" fill="#FFFFFF" x="48" y="24" width="24" height="24"></rect>
+        <polyline id="Path" stroke="#131313" stroke-width="2" stroke-linecap="square" points="40 34 36 38 32 34"></polyline>
+        <polyline id="Path-Copy" stroke="#131313" stroke-width="2" stroke-linecap="square" transform="translate(60.000000, 36.000000) scale(1, -1) translate(-60.000000, -36.000000) " points="64 34 60 38 56 34"></polyline>
+        <circle id="Knob---Left" stroke="#1B1B1B" stroke-width="2" cx="84" cy="36" r="7"></circle>
+        <rect id="Rectangle-Copy-17" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+        <rect id="Rectangle-Copy-3" fill-opacity="0.01" fill="#FFFFFF" x="96" y="0" width="24" height="24"></rect>
+        <rect id="Rectangle-Copy-2" fill-opacity="0.01" fill="#FFFFFF" x="72" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(0.000000, 24.000000)">
+            <rect id="Rectangle-Copy-4" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+            <g id="Search" transform="translate(2.000000, 2.000000)" stroke="#131313" stroke-linecap="square" stroke-width="2">
+                <line x1="20" y1="20" x2="14" y2="14" id="Path"></line>
+                <circle id="Oval" cx="8" cy="8" r="8"></circle>
+            </g>
+        </g>
+        <g id="Cart-Button" transform="translate(1.000000, 1.000000)" stroke="#131313" stroke-width="2">
+            <polyline id="Path" points="0 0 2.5 3.01612903 2.5 12.0645161 1 15.5833333 22 15.5833333"></polyline>
+            <polyline id="Path" points="2.75 2.75 20.1666667 2.75 17.1809524 11.9166667 2.75 11.9166667"></polyline>
+            <circle id="Oval" stroke-linecap="square" cx="2.75" cy="20.1666667" r="1.83333333"></circle>
+            <circle id="Oval" stroke-linecap="square" cx="19.25" cy="20.1666667" r="1.83333333"></circle>
+        </g>
+        <path d="M95,18 C95.6,18 96,18.4 96,19 C96,19.6 95.6,20 95,20 L73,20 C72.4,20 72,19.6 72,19 C72,18.4 72.4,18 73,18 L95,18 Z M95,11 C95.6,11 96,11.4 96,12 C96,12.6 95.6,13 95,13 L73,13 C72.4,13 72,12.6 72,12 C72,11.4 72.4,11 73,11 L95,11 Z M95,4 C95.6,4 96,4.4 96,5 C96,5.6 95.6,6 95,6 L73,6 C72.4,6 72,5.6 72,5 C72,4.4 72.4,4 73,4 L95,4 Z" id="Combined-Shape" fill="#1B1B1B" fill-rule="nonzero"></path>
+        <polyline id="Arrow" stroke="#131313" stroke-width="2" stroke-linecap="square" points="44 8 36 16 28 8"></polyline>
+        <polyline id="Arrow-Copy" stroke="#131313" stroke-width="2" stroke-linecap="square" transform="translate(60.000000, 12.000000) scale(1, -1) translate(-60.000000, -12.000000) " points="68 8 60 16 52 8"></polyline>
+        <g id="Add-to-Cart-Button" transform="translate(97.000000, 1.000000)">
+            <polyline id="Path" stroke="#131313" stroke-width="2" points="0 0 2.5 3.01612903 2.5 12.0645161 1 15.5833333 22 15.5833333"></polyline>
+            <polyline id="Path" stroke="#131313" stroke-width="2" points="2.75 2.75 20.1666667 2.75 17.1809524 11.9166667 2.75 11.9166667"></polyline>
+            <circle id="Oval" stroke="#131313" stroke-width="2" stroke-linecap="square" cx="2.75" cy="20.1666667" r="1.83333333"></circle>
+            <circle id="Oval" stroke="#131313" stroke-width="2" stroke-linecap="square" cx="19.25" cy="20.1666667" r="1.83333333"></circle>
+            <rect id="Rectangle" fill="#1B1B1B" x="10.0833333" y="4.58333333" width="1.83333333" height="5.5"></rect>
+            <polygon id="Rectangle" fill="#1B1B1B" transform="translate(11.000000, 7.333333) rotate(90.000000) translate(-11.000000, -7.333333) " points="10.0833333 4.58333333 11.9166667 4.58333333 11.9166667 10.0833333 10.0833333 10.0833333"></polygon>
+        </g>
+        <g id="Group-2" transform="translate(3.000000, 51.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M17.2887608,0.318198052 C17.7130249,0.74246212 17.7130249,1.30814755 17.2887608,1.73241161 L10.217,8.803 L17.2887608,15.8745472 C17.7130249,16.2988113 17.7130249,16.8644967 17.2887608,17.2887608 C16.8644967,17.7130249 16.2988113,17.7130249 15.8745472,17.2887608 L8.803,10.217 L1.73241161,17.2887608 C1.30814755,17.7130249 0.74246212,17.7130249 0.318198052,17.2887608 C-0.106066017,16.8644967 -0.106066017,16.2988113 0.318198052,15.8745472 L7.389,8.803 L0.318198052,1.73241161 C-0.106066017,1.30814755 -0.106066017,0.74246212 0.318198052,0.318198052 C0.74246212,-0.106066017 1.30814755,-0.106066017 1.73241161,0.318198052 L8.803,7.389 L15.8745472,0.318198052 C16.2988113,-0.106066017 16.8644967,-0.106066017 17.2887608,0.318198052 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,76 @@
+.navContainer{
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    background-color: #ffffff;
+    z-index: 999;
+    justify-content: space-between;
+}
+.logo{
+    width: 60px;
+    vertical-align: middle;
+}
+.navLinksContainer .navLinks{
+    margin-left: 42px;
+}
+a.navLinks{
+    font-size: 13px;
+    font-weight: 600;
+    text-decoration:none;
+}
+ .iconCart,.iconMenu, .tilesAddToCart, .iconTimes{
+  background-image: url('../../../assets/images/icons_sprite.svg');
+  background-repeat: no-repeat;
+}
+
+.iconCart{
+  height: 24px;
+  width: 24px;
+  background-position: 0;
+}
+.iconMenu{
+  height: 24px;
+  width: 24px;
+  /* background-position: -72px 0; */
+}
+.iconTimes{
+  height: 24px;
+  width: 24px;
+  background-position: 0 -48px;
+  display: none;
+}
+.iconCart, .iconMenu{
+    margin-right: 30px;
+}
+/*.iconMenu{
+    display: block;
+    grid-column: 3;
+    grid-row: 1;
+} */
+.searchInput:focus{
+  outline: none;
+}
+
+.searchInput{
+  border: 0;
+  border-bottom: 2px solid #1b1b1b;
+  font-size: 24px;
+  font-weight: 600;
+  margin-right: 30px;
+
+}
+.searchAddCart{
+    display: flex;
+    align-items: center;
+}
+
+@media screen and (max-width:990px){
+  .searchInput{
+    display: none;
+  }
+  .iconCart{
+    display: none;
+  }
+}
