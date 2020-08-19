@@ -36,18 +36,18 @@ class Filters extends Component {
         return (
             <div>
                 <p>FILTER BY</p>
-                <button className={styles.collectionCollapsible} 
+                <button className={styles.collapsibleBtn} 
                 onClick={this.toggleCollectionContent}>
                     Collection <i className={styles.arrow}>
                     </i>
                 </button>
                 <FilterOptions options = {this.options.collection} ref = {this.collectionRef}></FilterOptions>
-                <button className={styles.collectionCollapsible}  onClick={this.toggleCategoryContent}>
+                <button className={styles.collapsibleBtn}  onClick={this.toggleCategoryContent}>
                     Category <i className={styles.arrow}>
                     </i>
                 </button>
                 <FilterOptions options = {this.options.category} ref = {this.categoryRef}></FilterOptions>
-                <button className={styles.collectionCollapsible} onClick={this.toggleColorContent}>
+                <button className={styles.collapsibleBtn} onClick={this.toggleColorContent}>
                     Color <i className={styles.arrow}>
                     </i>
                 </button>
